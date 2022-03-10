@@ -1,9 +1,8 @@
 """
-    author:Daobin zhu
+    author:Daobin Zhu
     description:achieve forward algorithm
     date:2022/03/10
 """
-import numpy
 import numpy as np
 
 
